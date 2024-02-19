@@ -2,3 +2,11 @@ body
 {
     background-color: aliceblue;
 }
+
+div
+{
+    border: solid 1px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(209, 224, 70);
+}
